@@ -1,0 +1,2 @@
+GET https://{{organization}}.visualstudio.com/{{project}}/_apis/work/teamsettings/iterations
+Authorization: Basic {{token}}
